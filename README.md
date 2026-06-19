@@ -1,0 +1,1 @@
+Fabric — A modern, beautifully designed e-commerce platform for premium fabrics and textiles. Built with HTML5, CSS3, JavaScript, and Python (Flask). Features glassmorphism UI, smooth animations, product filtering, contact forms, and a Flask-powered REST API with JSON data storage for managing products, users, and inquiries.
