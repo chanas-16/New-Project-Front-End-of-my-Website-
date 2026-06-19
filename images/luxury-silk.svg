@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-label="Luxury silk fabric illustration">
+  <rect width="800" height="520" fill="#f7eef3"/>
+  <rect width="800" height="520" fill="url(#bg)"/>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7eef3"/>
+      <stop offset="100%" stop-color="#e6d0e0"/>
+    </linearGradient>
+    <pattern id="shine" width="90" height="90" patternUnits="userSpaceOnUse">
+      <rect width="90" height="90" fill="#f7eef3"/>
+      <path d="M0 45H90M45 0V90" stroke="#d7a7c7" stroke-width="1.5" opacity="0.35"/>
+      <circle cx="45" cy="45" r="18" fill="#f3d6ed" opacity="0.6"/>
+    </pattern>
+  </defs>
+  <rect x="70" y="70" width="660" height="380" rx="18" fill="#f9eef7"/>
+  <rect x="90" y="90" width="620" height="340" rx="14" fill="url(#shine)"/>
+  <path d="M140 180C220 120 350 110 430 180C510 250 610 240 660 170" stroke="#a75d93" stroke-width="18" stroke-linecap="round" fill="none" opacity="0.65"/>
+  <path d="M140 260C230 210 360 205 430 260C510 320 610 310 660 240" stroke="#c882af" stroke-width="14" stroke-linecap="round" fill="none" opacity="0.65"/>
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#6a335c">Luxury Silk</text>
+</svg>

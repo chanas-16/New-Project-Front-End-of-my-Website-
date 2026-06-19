@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-label="Pure linen fabric illustration">
+  <rect width="800" height="520" fill="#f7f1e5"/>
+  <rect width="800" height="520" fill="url(#bg)"/>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f9f4e5"/>
+      <stop offset="100%" stop-color="#e0ceaa"/>
+    </linearGradient>
+    <pattern id="texture" width="90" height="90" patternUnits="userSpaceOnUse">
+      <rect width="90" height="90" fill="#f7f1e5"/>
+      <path d="M0 0H90M0 45H90M45 0V90" stroke="#d7c08d" stroke-width="1.2" opacity="0.35"/>
+      <path d="M0 20H90M0 70H90" stroke="#e7d7a7" stroke-width="0.8" opacity="0.25"/>
+    </pattern>
+  </defs>
+  <rect x="70" y="70" width="660" height="380" rx="18" fill="#f5e9c8"/>
+  <rect x="90" y="90" width="620" height="340" rx="14" fill="url(#texture)"/>
+  <path d="M140 170H660" stroke="#b69359" stroke-width="20" stroke-linecap="round" opacity="0.6"/>
+  <path d="M140 240H660" stroke="#d1ac69" stroke-width="12" stroke-linecap="round" opacity="0.65"/>
+  <path d="M140 310H660" stroke="#e1be7a" stroke-width="10" stroke-linecap="round" opacity="0.6"/>
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#5f4b2d">Pure Linen</text>
+</svg>

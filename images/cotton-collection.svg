@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-label="Cotton collection fabric illustration">
+  <rect width="800" height="520" fill="#f7f3e7"/>
+  <rect x="0" y="0" width="800" height="520" fill="url(#bg)"/>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f9f5e8"/>
+      <stop offset="100%" stop-color="#e8dcc2"/>
+    </linearGradient>
+    <pattern id="weave" width="80" height="80" patternUnits="userSpaceOnUse">
+      <rect width="80" height="80" fill="#f7f3e7"/>
+      <path d="M0 40H80M40 0V80" stroke="#d8c59e" stroke-width="2" opacity="0.35"/>
+      <path d="M0 20H80M0 60H80" stroke="#e7d7aa" stroke-width="1" opacity="0.3"/>
+    </pattern>
+  </defs>
+  <rect x="65" y="80" width="670" height="360" rx="18" fill="#f2e7c9"/>
+  <rect x="80" y="95" width="640" height="330" rx="16" fill="url(#weave)"/>
+  <rect x="110" y="130" width="580" height="70" rx="10" fill="#d8b874" opacity="0.7"/>
+  <rect x="110" y="210" width="580" height="85" rx="10" fill="#caa15d" opacity="0.55"/>
+  <rect x="110" y="310" width="580" height="65" rx="10" fill="#b98b45" opacity="0.65"/>
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#5a4524">Cotton Collection</text>
+</svg>
